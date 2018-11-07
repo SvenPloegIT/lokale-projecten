@@ -7,8 +7,8 @@ Bij elk idee kan je meer uitleg vinden zoals voor wie het bedoelt is en van wie 
 
 Heb je zelf een idee maak dan een [issue](https://github.com/ScoutsGidsenVL/lokale-projecten/issues/new) 😊
 
-### Sjoring simulator
-Veel groepen zouden graag een simulatie maken van hun sjoringen. Ben jij een krak die dat kan simuleren? Neem contact op met [Ploeg  IT](https://www.scoutsengidsenvlaanderen.be/ict-en-websites/ploeg-informatica)
+### Sjorring simulator
+Veel groepen zouden graag een simulatie maken van hun sjorringen. Ben jij een krak die dat kan simuleren? Neem contact op met [Ploeg  IT](https://www.scoutsengidsenvlaanderen.be/ict-en-websites/ploeg-informatica)
 
 ### Inschrijving systeem voor evenementen
 [Ploeg  IT](https://www.scoutsengidsenvlaanderen.be/ict-en-websites/ploeg-informatica) heeft al vaak de vraag gekregen voor een gemakkelijk inschrijf systeem te maken voor een mosselsouper of spaghettifestijn? Kan jij andere groepen uit de nood helpen?
